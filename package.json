@@ -1,0 +1,33 @@
+{
+  "name": "phoenix-error",
+  "version": "0.0.1",
+  "description": "Error Process for Phoenix Project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+		"jsdoc": "*",
+    "should": "*",
+    "istanbul": "*"
+  },
+  "scripts": {
+    "build_docs": "jsdoc -c jsdoc.conf",
+    "start": "nodemon ./src/app.js",
+    "start_target": "nodemon ./src/utils/target.js",
+    "test": "node ./node_modules/mocha/bin/mocha",
+    "test_coverage": "node ./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BTCChina/phoenix-error.git"
+  },
+  "keywords": [
+    "error",
+    "nodejs"
+  ],
+  "author": "Frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BTCChina/phoenix-error/issues"
+  },
+  "homepage": "https://github.com/BTCChina/phoenix-error#readme"
+}

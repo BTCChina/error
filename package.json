@@ -1,5 +1,5 @@
 {
-  "name": "phoenix-error",
+  "name": "cyanide-error",
   "version": "0.0.1",
   "description": "Error Process for Phoenix Project",
   "main": "index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BTCChina/phoenix-error.git"
+    "url": "git+https://github.com/cyanideio/error.git"
   },
   "keywords": [
     "error",
@@ -27,7 +27,7 @@
   "author": "Frank",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BTCChina/phoenix-error/issues"
+    "url": "https://github.com/cyanideio/error/issues"
   },
-  "homepage": "https://github.com/BTCChina/phoenix-error#readme"
+  "homepage": "https://github.com/cyanideio/error#readme"
 }

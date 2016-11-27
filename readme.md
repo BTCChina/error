@@ -26,3 +26,6 @@ __Configuration for single error looks like this:__
 	"emitter": "request"								// Source Of Error
 }
 ```
+
+## Change Log
+Please Refer to [https://github.com/cyanideio/error/releases](https://github.com/cyanideio/error/releases)
